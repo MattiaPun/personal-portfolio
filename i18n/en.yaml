@@ -47,7 +47,7 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Mattia - a high performance hugo theme by Mattia Punjwani"
+  translation: "Personal Site & Portfolio"
 
 - id: "head_description"
   translation: "This hugo theme is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
